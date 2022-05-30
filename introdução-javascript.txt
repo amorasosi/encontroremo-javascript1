@@ -1,0 +1,8 @@
+instalação do node.js
+variáveis
+tipo de dados
+operadores aritméticos
+operadores lógicos
+estruturas de decisão 
+exercícios
+desfio (entregar o link do github)
